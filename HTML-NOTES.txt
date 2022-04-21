@@ -1,0 +1,50 @@
+Basic Linux Commands_https://www.softcover.io/read/fc6c09de/unix_commands/basics
+
+HTML BOILERPLATE
+<!DOCTYPE html> Every HTML page starts with a doctype declaration
+lang - specifies the language of the text content in that element
+<head> where we put important meta-information about our webpages, and stuff required for our webpages to render correctly in the browser. Inside the <head>, we should not use any element that displays content on the webpage.
+<meta charset="utf-8"> We should always have the meta tag for the charset encoding of the webpage in the head element
+<title>My First Webpage</title> The title element is used to give webpages a human-readable title which is displayed in our webpage’s browser tab.
+
+
+
+
+
+<body><body> Body of the wesite, info or content to be populated
+
+PARAGRAPHS
+<p><p> Paragraph
+
+HEADING
+<h1> to <h6> diffent website heading sizes based on font sizes, h1 is the largest/boldest and h6 is the smallest/faintest
+
+STRONG ELEMENT
+<strong><strong> makes text bold
+
+Em Element
+<em><em> makes text italic. It also semantically places emphasis on the text, which again affects things like screen readers
+Nesting and indentation
+Nesting and indentation we indent any elements that are within other elements, we create a parent and child relationship between them. The nested elements are the children and the element they are nested within is the parent.
+
+HTML COMMENTS
+To wite a commment in HTML, just put <!-- and --> HTML Comments
+
+LISTS
+(This section contains a general overview of topics that you will learn in this lesson.
+
+    How to create an unordered list
+    How to create an ordered list
+)
+Unordered lists
+Unordered lists are created using the <ul></ul> element, and each item within the list is created using the list item element <li></li>.
+<ul>
+  <li>Item 1</li>
+ </ul> 
+Each list item in an unordered list begins with a bullet point:
+
+Ordered lists
+<ol></ol>, the lists Each individual item in them is again created using the list item element <li>
+
+
+
