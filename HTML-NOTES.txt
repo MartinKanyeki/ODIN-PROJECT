@@ -46,5 +46,10 @@ Each list item in an unordered list begins with a bullet point:
 Ordered lists
 <ol></ol>, the lists Each individual item in them is again created using the list item element <li>
 
+LINKS AND IMAGES
+Links are one of the key features of HTML. They allow us to link to other HTML pages on the web. In fact, this is why it’s called the web.
+
+Anchor Element
+
 
 
