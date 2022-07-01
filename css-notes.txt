@@ -1,0 +1,7 @@
+BASIC SYNTAX
+
+SELECTORS-HTML elements to which CSS rules apply
+Universal Selector-Selects elements of any type. Syntax is an asterisk 
+Type Selectors-selects all elements of the given element type, syntax is name of the element <div>Hello, World!</div> 
+Class Selectors- syntax is a period immediately followed by the case-sensitive value of the class attribute.
+ID Selectors- Instead of a period, we use a hashtag immediately followed by the case-sensitive value of the ID attribute.
